@@ -1,8 +1,11 @@
 # udemy-DL-CNN-part
 
 CNN based network that is trained with Cat/Dog dataset
+
 Predicts Cat or Dog
+
 The model has simple CNN network. 
+
 
 
 =================================================================
